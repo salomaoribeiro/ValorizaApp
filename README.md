@@ -14,5 +14,5 @@
 - Cadastro de Elogios
   [x] Não é permitido um usuário cadastrar um elogio para si mesmo
   [x] Não é permitido cadastrar elegios para usuários inválidos
-  [ ] O usuário precisa estar autenticado na aplicação
+  [x] O usuário precisa estar autenticado na aplicação
   
