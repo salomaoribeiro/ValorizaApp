@@ -16,9 +16,3 @@
   [x] Não é permitido cadastrar elegios para usuários inválidos
   [ ] O usuário precisa estar autenticado na aplicação
   
-
-
-## Ao infinito e além
-
-
-Migration -> Entity -> Repository -> 
